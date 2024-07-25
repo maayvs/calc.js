@@ -14,4 +14,5 @@
   <li>Função "eval"</li>
   <li>Função "clipboard"</li>
   <li>Modo dark/light</li>
+  <li>Modularização da aplicação com ESM</li>
 </ul>
